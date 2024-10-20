@@ -14,6 +14,7 @@ const C = () => {
         Click me {getGreeting()}
       </button>
       {element}
+      <div>Hello 一灯！</div>
     </div>
   );
 }
